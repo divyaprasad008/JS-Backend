@@ -19,3 +19,9 @@
 // npm i jsonwebtoken
 
 //hooks - if you want to perform some encryption before storing dataa in db you can use pre hook in mongoose - example in user model
+
+//cloudinary for handling file
+// we can install express file upload or multer - In this we will use multer file upload
+
+// refer filesystem of node js eg. cloudinary
+
